@@ -14,7 +14,7 @@
 
 // Credenciales Red WiFi
 #define WIFI_SSID "CONTROLLIUM"
-#define WIFI_PASSWORD "Stk412l$"
+#define WIFI_PASSWORD "*******"
 // Credenciales Adafruit
 #define ADAFRUIT_USER "*****"
 #define ADAFRUIT_KEY "******"
